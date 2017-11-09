@@ -13,3 +13,8 @@
 ![](https://newbie-leo.github.io/huishengyuan_life/img/qr.png)
 
 感谢高德地图[高德开放平台](http://lbs.amap.com "高德开放平台")
+
+#### 官方取点工具不适合连续取点，以下是本猿的连续取点画线工具
+
+[连续取点](http://120.25.173.16/huishengyuan_life/getpoint.html)
+
